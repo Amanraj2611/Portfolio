@@ -1,0 +1,43 @@
+[
+  {"title": "Amazon Clone",
+    "imageSrc": "projects/amazon.jpg",
+    "description": "Built a responsive Amazon clone featuring homepage layout, product sections, navbar, and footer for a realistic UI experience.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Amanraj2611"
+  },
+
+  {
+    "title": "Bank Management System",
+    "imageSrc": "projects/bank.jpg",
+    "description": "A desktop app for managing customer accounts, built with a responsive Java UI.",
+    "skills": ["Java", "Swing", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Amanraj2611"
+  },
+
+  {"title": "Portfolio Website",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Built a responsive portfolio website with a modern design, interactive animations, and dynamic content.",
+    "skills": ["React", "CSS" , "Figma"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Amanraj2611"
+  },
+
+  {
+    "title": "Online Voting System",
+    "imageSrc": "projects/voting.jpg",
+    "description": "A secure online voting platform that enables users to register, log in, and cast votes.",
+    "skills": ["Java", "Spring Boot", "A-Tomcat", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Amanraj2611"
+  },
+  {
+    "title": "Electricity Billing System",
+    "imageSrc": "projects/electricity.jpg",
+    "description": "A web-based application for calculating and generating electricity bills based on user input and unit consumption.",
+    "skills": ["Java", "Swing", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Amanraj2611"
+  }
+]

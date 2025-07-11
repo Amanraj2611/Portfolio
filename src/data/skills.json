@@ -1,0 +1,17 @@
+[
+  { "id": "Java", "title": "Java" },
+  { "id": "SpringBoot", "title": "Spring-Boot" }, 
+  { "id": "html", "title": "HTML" },
+  { "id": "css", "title": "CSS" },
+  { "id": "JavaScript", "title": "JavaScript" },
+   { "id": "React", "title": "React" },
+
+  { "id": "mysql", "title": "MySQL" },
+  
+  { "id": "Postman", "title": "Postman" },
+  { "id": "figma", "title": "Figma" },
+  { "id": "graphql", "title": "GraphQL" },
+  { "id": "git", "title": "Git" },
+   { "id": "github", "title": "GitHub" }
+  
+]

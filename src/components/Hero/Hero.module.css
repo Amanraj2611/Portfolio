@@ -1,0 +1,91 @@
+.heroSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px 8%;
+  background: radial-gradient(ellipse at top left, #0f172a 0%, #1e293b 100%);
+  color: white;
+  flex-wrap: wrap;
+}
+
+.left {
+  max-width: 600px;
+}
+
+.greeting {
+  font-size: 18px;
+  color: #94a3b8;
+  margin-bottom: 10px;
+}
+
+.name {
+  font-size: 50px;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.name span {
+  background: linear-gradient(90deg, #6366f1, #ec4899);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.role {
+  font-size: 24px;
+  margin: 15px 0;
+}
+
+.typing {
+  font-weight: 600;
+  color: #60a5fa;
+}
+
+.contactInfo p {
+  margin: 4px 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 16px;
+  color: #cbd5e1;
+}
+
+.buttons {
+  margin-top: 20px;
+  display: flex;
+  gap: 15px;
+}
+
+.btnPrimary {
+  background-color: #6366f1;
+  color: white;
+  padding: 10px 22px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.btnOutline {
+  border: 2px solid #6366f1;
+  color: #6366f1;
+  padding: 8px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.right .imageWrapper {
+  width: 320px;
+  height: 320px;
+  background: #0f172a;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 20px rgba(99, 102, 241, 0.4);
+}
+
+.imageWrapper img {
+  width: 100%;
+  height: auto;
+}
