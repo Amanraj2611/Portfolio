@@ -4,7 +4,7 @@
     "description": "Built a responsive Amazon clone featuring homepage layout, product sections, navbar, and footer for a realistic UI experience.",
     "skills": ["HTML", "CSS"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/Amanraj2611"
+    "source": "https://github.com/Amanraj2611?tab=repositories"
   },
 
   {
@@ -13,7 +13,7 @@
     "description": "A desktop app for managing customer accounts, built with a responsive Java UI.",
     "skills": ["Java", "Swing", "MySQL"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/Amanraj2611"
+    "source": "https://github.com/Amanraj2611?tab=repositories"
   },
 
   {"title": "Portfolio Website",
@@ -21,7 +21,7 @@
     "description": "Built a responsive portfolio website with a modern design, interactive animations, and dynamic content.",
     "skills": ["React", "CSS" , "Figma"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/Amanraj2611"
+    "source": "https://github.com/Amanraj2611?tab=repositories"
   },
 
   {
@@ -30,7 +30,7 @@
     "description": "A secure online voting platform that enables users to register, log in, and cast votes.",
     "skills": ["Java", "Spring Boot", "A-Tomcat", "MySQL"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/Amanraj2611"
+    "source": "https://github.com/Amanraj2611?tab=repositories"
   },
   {
     "title": "Electricity Billing System",
@@ -38,6 +38,14 @@
     "description": "A web-based application for calculating and generating electricity bills based on user input and unit consumption.",
     "skills": ["Java", "Swing", "MySQL"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/Amanraj2611"
+    "source": "https://github.com/Amanraj2611?tab=repositories"
+  },
+  {
+    "title": "User Management Dashboard",
+    "imageSrc": "projects/UserManagement.png",
+    "description": "A full-stack web application that allows users to perform complete CRUD operations. Built using React for the frontend and Spring Boot with PostgreSQL for the backend.",
+    "skills": ["React", "Java", "Spring Boot", "MySQL"],
+    "demo": "https://fullstack-front-tau.vercel.app/",
+    "source": "https://github.com/Amanraj2611/fullstack-front"
   }
 ]

@@ -14,10 +14,11 @@
   text-transform: uppercase;
 }
 
+/* Grid layout */
 .projects {
   margin-top: 37px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 40px; /* more spacing between cards */
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 40px;
+  align-items: stretch;
 }

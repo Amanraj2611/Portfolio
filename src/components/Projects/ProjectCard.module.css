@@ -5,67 +5,131 @@
   flex-direction: column;
   justify-content: space-between;
 
-  border-radius: 10px;
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+  border-radius: 12px;
   box-shadow: 0 16px 14px 0 #04152d;
-  padding: 18px 24px;
-  width: 320px;
-  height: 100%; /* Full height for consistency */
+
+  padding: 20px;
+  width: 100%;
+  min-height: 480px;
   box-sizing: border-box;
-  min-height: 460px;
+  transition: transform 0.3s ease;
 }
 
+.container:hover {
+  transform: translateY(-6px);
+}
 
+/* Image */
 .image {
   width: 100%;
-  height: 180px;          /* Fixed height */
-  object-fit: cover;      /* Crop the image to fill without distortion */
-  border-radius: 6px;
-  margin-bottom: 20px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 15px;
 }
 
-
+/* Title */
 .title {
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 700;
-  
+  margin-bottom: 8px;
 }
 
+/* Description */
 .description {
-  font-size: 15px;
-  line-height: 1.4;
-  margin-bottom: 10px;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 12px;
+  flex-grow: 1;
 }
 
-
+/* Skills */
 .skills {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
   list-style: none;
   padding: 0;
-  margin: 12px 0 0 0;
+  margin: 10px 0;
 }
 
 .skill {
   background-color: var(--color-dark);
   color: white;
-  padding: 4px 16px;
+  padding: 4px 14px;
+  background: rgb(112, 110, 110);
   border-radius: 20px;
-  font-size: 14px;
-  font-weight: 500;
-  white-space: nowrap;
+  font-size: 13px;
 }
 
-
+/* Buttons */
 .links {
-  width: 100%;
-  margin-top: 26px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 15px;
 }
 
 .link {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 18px;
   font-size: 14px;
-  padding: 4px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: white;
+  transition: 0.3s ease;
+}
+
+/* Icons */
+.icon {
+  font-size: 14px;
+}
+
+/* Demo Button */
+.demo {
+  background-color: #3fc33d;
+}
+
+.demo:hover {
+  background-color: #16a34a;
+}
+
+/* Source Button */
+.source {
+  background-color: #2563eb;
+}
+
+.source:hover {
+  background-color: #1d4ed8;
+}
+
+/* ✅ MOBILE RESPONSIVE */
+@media (max-width: 768px) {
+  .container {
+    min-height: auto;
+  }
+
+  .image {
+    height: 160px;
+  }
+
+  .title {
+    font-size: 20px;
+  }
+
+  .description {
+    font-size: 13px;
+  }
+
+  .links {
+    flex-direction: column;
+  }
+
+  .link {
+    justify-content: center;
+    width: 100%;
+  }
 }
