@@ -1,9 +1,18 @@
 [
+  {
+    "title": "Online Voting System",
+    "imageSrc": "projects/voting.jpg",
+    "description": "The goal of this project is to digitize the traditional voting process and provide a secure, role-based online voting system that simulates a real-world e-voting platform.",
+    "skills": ["Java", "Spring Boot", "React", "JavaScript", "Postman","MySQL"],
+    "demo": "https://singular-stardust-6d7982.netlify.app/",
+    "source": "https://github.com/Amanraj2611?tab=repositories"
+  },
+
   {"title": "Amazon Clone",
-    "imageSrc": "projects/amazon.jpg",
+    "imageSrc": "projects/amazon1.jpg",
     "description": "Built a responsive Amazon clone featuring homepage layout, product sections, navbar, and footer for a realistic UI experience.",
     "skills": ["HTML", "CSS"],
-    "demo": "https://www.example.com",
+    "demo": "https://amazon-clone-09687e.netlify.app/",
     "source": "https://github.com/Amanraj2611?tab=repositories"
   },
 
@@ -12,33 +21,25 @@
     "imageSrc": "projects/bank.jpg",
     "description": "A desktop app for managing customer accounts, built with a responsive Java UI.",
     "skills": ["Java", "Swing", "MySQL"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/Amanraj2611?tab=repositories"
+    "demo": "https://github.com/Amanraj2611/Bank-mangement-system",
+    "source": "https://github.com/Amanraj2611/Bank-mangement-system"
   },
 
   {"title": "Portfolio Website",
     "imageSrc": "projects/portfolio.png",
     "description": "Built a responsive portfolio website with a modern design, interactive animations, and dynamic content.",
     "skills": ["React", "CSS" , "Figma"],
-    "demo": "https://www.example.com",
+    "demo": "https://amanportfolio26.netlify.app/",
     "source": "https://github.com/Amanraj2611?tab=repositories"
   },
 
-  {
-    "title": "Online Voting System",
-    "imageSrc": "projects/voting.jpg",
-    "description": "A secure online voting platform that enables users to register, log in, and cast votes.",
-    "skills": ["Java", "Spring Boot", "A-Tomcat", "MySQL"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/Amanraj2611?tab=repositories"
-  },
   {
     "title": "Electricity Billing System",
     "imageSrc": "projects/electricity.jpg",
     "description": "A web-based application for calculating and generating electricity bills based on user input and unit consumption.",
     "skills": ["Java", "Swing", "MySQL"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/Amanraj2611?tab=repositories"
+    "demo": "https://github.com/Amanraj2611/Electricity-Billing-System",
+    "source": "https://github.com/Amanraj2611/Electricity-Billing-System"
   },
   {
     "title": "User Management Dashboard",

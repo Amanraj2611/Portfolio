@@ -11,11 +11,12 @@ import javaIcon from "../../assets/skills/Java.png";
 import springbootIcon from "../../assets/skills/spring-boot.png";
 
 import mysqlIcon from "../../assets/skills/mysql.png";
-//import nodeIcon from "../../assets/skills/node.png";
+import nodeIcon from "../../assets/skills/node.png";
 
 import postmanIcon from "../../assets/skills/Postman.png";
 import figmaIcon from "../../assets/skills/figma.png";
-import graphqlIcon from "../../assets/skills/graphql.png";
+import dockerIcon from "../../assets/skills/docker.png";
+import pythonIcon from "../../assets/skills/python.png";
 //import mongodbIcon from "../../assets/skills/mongodb.png
 import gitIcon from "../../assets/skills/Git.png";
 import githubIcon from "../../assets/skills/GitHub.png";
@@ -30,11 +31,12 @@ const skillIcons = {
   Java: javaIcon,
   SpringBoot: springbootIcon,
   
-  //node: nodeIcon,
+  node: nodeIcon,
   mysql: mysqlIcon,
   Postman: postmanIcon,
   figma: figmaIcon,
-  graphql: graphqlIcon,
+  docker: dockerIcon,
+  python: pythonIcon,
  // mongodb: mongodbIcon
   git: gitIcon,
   github: githubIcon,

@@ -4,7 +4,7 @@ import styles from "./ProjectCard.module.css";
 import bankImg from "../../assets/projects/bank.jpg";
 import votingImg from "../../assets/projects/voting.jpg";
 import electricityImg from "../../assets/projects/electricity.jpg";
-import amazonImg from "../../assets/projects/amazon.jpg";
+import amazonImg from "../../assets/projects/amazon1.jpg";
 import portfolioImg from "../../assets/projects/portfolio.png";
 import UserManagement from "../../assets/projects/UserManagement.png";
 
@@ -12,7 +12,7 @@ const imageMap = {
   "projects/bank.jpg": bankImg,
   "projects/voting.jpg": votingImg,
   "projects/electricity.jpg": electricityImg,
-  "projects/amazon.jpg": amazonImg,
+  "projects/amazon1.jpg": amazonImg,
   "projects/portfolio.png": portfolioImg,
   "projects/UserManagement.png": UserManagement,
 };
