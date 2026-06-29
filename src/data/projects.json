@@ -1,10 +1,11 @@
 [
+
   {
     "title": "Online Voting System",
-    "imageSrc": "projects/voting.jpg",
+    "imageSrc": "projects/securevoting.png",
     "description": "The goal of this project is to digitize the traditional voting process and provide a secure, role-based online voting system that simulates a real-world e-voting platform.",
     "skills": ["Java", "Spring Boot", "React", "JavaScript", "Postman","MySQL"],
-    "demo": "https://singular-stardust-6d7982.netlify.app/",
+    "demo": "https://steady-bavarois-ccc583.netlify.app/",
     "source": "https://github.com/Amanraj2611?tab=repositories"
   },
 
